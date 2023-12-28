@@ -97,7 +97,7 @@
             </repository>
             <snapshotRepository>
               <id>nexus</id>
-              <name>Lagotechsolutions Release Nexus Repository </name>
+              <name>Lagotechsolutions Release Nexus Repository</name>
               <url>http://100.25.19.33:8081/repository/lagotech-snapshots/</url>
             </snapshotRepository>
 
